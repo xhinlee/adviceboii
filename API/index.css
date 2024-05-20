@@ -1,0 +1,35 @@
+/* Basic Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body Styling */
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-color: #f0f8ff;
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    color: #333;
+}
+
+/* Heading Styling */
+h1 {
+    margin-bottom: 10px;
+    font-size: 2.5em;
+    color: #2c3e50;
+}
+
+/* Paragraph Styling */
+p {
+    margin-bottom: 20px;
+    font-size: 1.2em;
+    color: #34495e;
+}
+
+/* Button
